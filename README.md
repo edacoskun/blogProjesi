@@ -25,5 +25,17 @@ Bu adresten projenin çalışan halini görebilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/56333115/122468880-f374f480-cfc4-11eb-83d6-c92f94cc18f0.png)
 
+## Blog Sayfası:
+-Postunuzu "post.php" den yazıp kendi sayfanıza ekleyebilirsiniz.
+
+![image](https://user-images.githubusercontent.com/56333115/122469133-40f16180-cfc5-11eb-8523-65ab036481a9.png)
+
+-Kendi sayfanızda eklediğiniz postlarınızı görebilir, düzenleyip silebilirsiniz.
+
+![image](https://user-images.githubusercontent.com/56333115/122469360-89108400-cfc5-11eb-9147-42e0eeaad735.png)
+
+##Kullanılan SQL Sorguları:
+-Post Eklemek için:
+
 ### Yazar
 Eda Coşkun
