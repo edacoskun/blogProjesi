@@ -36,6 +36,18 @@ Bu adresten projenin çalışan halini görebilirsiniz.
 
 ##Kullanılan SQL Sorguları:
 -Post Eklemek için:
+![image](https://user-images.githubusercontent.com/56333115/122469671-e4427680-cfc5-11eb-912e-fd918e0e2f90.png)
+
+-Post Listelemek için:
+![image](https://user-images.githubusercontent.com/56333115/122469936-2a97d580-cfc6-11eb-9b85-64d709d0db3e.png)
+
+
+-Post Güncellemek için:
+![image](https://user-images.githubusercontent.com/56333115/122469759-fb816400-cfc5-11eb-81c5-605ef989a2e1.png)
+
+-Post Silmek için:
+![image](https://user-images.githubusercontent.com/56333115/122469842-0fc56100-cfc6-11eb-9a7e-cf28e9d73e9c.png)
+
 
 ### Yazar
 Eda Coşkun
