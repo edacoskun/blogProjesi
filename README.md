@@ -1,10 +1,29 @@
 # blogProjesi
-a
+Bu proje, üyelerin sadece bir kayıt olma işlemi ile kendilerine özel bir blog sayfası olmasını sağlar. Blog projesindeki amaç; her yaştan insanın kolay bir şekilde bloglar yazabilmesidir. Bu yüzden basit ve kullanışlı bir arayüze sahiptir. Kayıt olunduktan sonra 'Üye Giriş' ile herkes kendi özel blog sayfasına ulaşabilir. Burada yeni bir post ekleyebilir, bu postları liste halinde görebilir, güncelleme ihtiyacı duyulduğunda düzenlenebilir veya silinebilir. Girilen her post ve üye bilgileri veritabanında tutulmaktadır.
 
-##Kullanılan teknolojiler
+## Kullanılan teknolojiler
 -HTML
 -CSS
 -PHP
 -JavaScript
 -MySQL
 
+## Yükleme
+Bu proje Github → depo adresini kopyalayarak indirilebilir.
+"blog.sql" adındaki sql uzantılı dosyayı PhpMyAdmin kullanarak kendi veritabanınıza "İçe Aktar" seçeneği ile aktarabilirsiniz. Daha sonra indirdiğiniz dosyaları, "config.php" deki veritabanı bağlantı kısmındaki ayarları düzenleyebilirsiniz.
+
+## Sunucu Adresi
+http://blogodev.eu5.org/
+Bu adresten projenin çalışan halini görebilirsiniz.
+
+## Üye Olma Sistemi:
+-Önce "Yeni hesap oluştur" seçeneğinden "Kaydol" sayfasına geliniz ve kayıt olunuz.
+
+![image](https://user-images.githubusercontent.com/56333115/122468575-8eb99a00-cfc4-11eb-9537-6c762c64ba5e.png)
+
+-Daha sonra "Hesabın var mı?" seçeneğinden "Üye Giriş" sayfasına geliniz ve kullanıcı adı-şifre girerek sisteme giriş yapınız.
+
+![image](https://user-images.githubusercontent.com/56333115/122468880-f374f480-cfc4-11eb-83d6-c92f94cc18f0.png)
+
+### Yazar
+Eda Coşkun
