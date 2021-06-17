@@ -1,0 +1,90 @@
+body{
+    background:url("bloggiris.jpg");
+    background-size: 100%;
+    
+ }
+
+*{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	box-sizing: border-box;
+}
+
+form {
+    margin-top: 40px;
+    margin-right: 100px;
+	width: 500px;
+	border: 2px solid #ccc;
+	padding: 30px;
+	background: #fff;
+	border-radius: 15px;
+    opacity:0.6;
+    float: right;
+	font-weight: bolder;
+
+}
+
+h2 {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.uyarı{
+    color: #000;
+    text-align: center;
+
+}
+
+input {
+	display: block;
+	border: 2px solid #000;
+	width: 95%;
+	padding: 10px;
+	margin: 10px auto;
+	border-radius: 5px;
+}
+label {
+	color: #000;
+	font-size: 18px;
+	padding: 10px;
+}
+
+button {
+	float: right;
+	background: rgb(34, 21, 21);
+	padding: 10px 15px;
+	color: #fff;
+	border-radius: 5px;
+	margin-right: 10px;
+	border: none;
+}
+button:hover{
+	opacity: 0.9;
+}
+.error {
+   background: #F2DEDE;
+   color: #A94442;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
+
+.success {
+   background: #D4EDDA;
+   color: #40754C;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
+
+.ca {
+	font-size: 15px;
+	display: inline-block;
+	padding: 10px;
+	text-decoration: none;
+	color: #000;
+}
+.ca:hover {
+	text-decoration: underline;
+} 
